@@ -144,4 +144,26 @@ nav:hover ul {
 .parallax-inner {
 	padding-top: 17%;
 }
- 
+.social {
+	list-style-type: none;
+	text-align: center;
+}
+.social li {
+	display: inline;
+}
+ .social i {
+ 	font-size: 270%;
+ 	margin: 1% 5% 7% 4%;
+ 	color: #000000;
+ }
+ .social i:hover {
+ 	color: #606060;
+ }
+ footer.second {
+ 	background-color: #000000;
+ }
+ footer.second p {
+ 	color: #FFF;
+ 	text-align: center;
+ 	padding: 5%;
+ }
